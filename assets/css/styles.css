@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url(../fonts/RobotoSlab-Medium.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url(../fonts/RobotoSlab-Light.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url(../fonts/RobotoSlab-Bold.ttf);
+  font-weight: bold;
+}
+* {
+  font-family: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
+}
+
+header, footer {
+  background: #2E2E2E;
+}
+header nav a, footer nav a {
+  color: #ffffff;
+  font-size: 18px;
+}
+header nav a:hover, footer nav a:hover {
+  color: #6699FF;
+  transition: all 200ms;
+}
+header nav ul > :first-child::before {
+  content: none;
+}
+header nav li::before {
+  content: '';
+  width: 1px;
+  height: 100%;
+  display: block;
+  background: #ffffff;
+  margin: 0 15px;
+}
