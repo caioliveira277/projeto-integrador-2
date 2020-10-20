@@ -1,3 +1,3 @@
-# projeto_integrador_2
+# Portal de noticias sobre jogos digitais
 
 Projeto do segundo semestre Fatec São Roque
