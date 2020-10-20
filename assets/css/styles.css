@@ -23,10 +23,13 @@ header, footer {
 header nav a, footer nav a {
   color: #ffffff;
   font-size: 18px;
+  transition: all 200ms;
 }
 header nav a:hover, footer nav a:hover {
   color: #6699FF;
-  transition: all 200ms;
+}
+header nav a:active, footer nav a:active {
+  color: #00CC00;
 }
 header nav ul > :first-child::before {
   content: none;
