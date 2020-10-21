@@ -1,7 +1,15 @@
-<?php include("./pages/template/header.php"); ?>
+<?php 
+  $view = filter_input(INPUT_GET, "view");
 
-<main>
-  content  
-</main>
-
-<?php include("./pages/template/footer.php"); ?>
+  include("./pages/template/header.php");
+    switch ($view) {
+      case 'acao_aventura':
+        include("./pages/conteudo_acao_aventura.php");
+        break;
+      
+      default:
+        include("./pages/home.php");
+        break;
+    }
+  include("./pages/template/footer.php"); 
+?>
