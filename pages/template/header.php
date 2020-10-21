@@ -9,7 +9,7 @@
   <title>Document</title>
 </head>
 <body>
-  <header class="py-2">
+  <header class="py-2 mb-5">
     <div class="container d-flex align-items-center justify-content-between">
       <a href="./index.php">
         <img src="./assets/images/logo.png" class="img-fluid" alt="Logo Portal dos games, um controle preto retrô com alguns botões em vermelho">

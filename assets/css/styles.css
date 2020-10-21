@@ -16,7 +16,6 @@
 * {
   font-family: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
 }
-
 header, footer {
   background: #2E2E2E;
 }
@@ -41,4 +40,19 @@ header nav li::before {
   display: block;
   background: #ffffff;
   margin: 0 15px;
+}
+.img-perfil {
+  height: 60px;
+  width: 60px;
+}
+
+/* Paginas de conteudos */
+.pagina-conteudo .autor-postagem .nome{
+  font-size: 20px;
+}
+.pagina-conteudo .conteudo{
+  font-size: 18px;
+}
+.pagina-conteudo .conteudo{
+  padding: 0 5rem;
 }
