@@ -6,6 +6,10 @@
       case 'acao_aventura':
         include("./pages/conteudo_acao_aventura.php");
         break;
+
+        case 'contato':
+          include("./pages/contato.php");
+          break;
       
       default:
         include("./pages/home.php");
