@@ -1,0 +1,15 @@
+@charset "utf-8";
+.terror-img-intro{
+    width:100%;
+    margin-bottom: 20px;
+}
+.text-intro{
+    margin: 0 auto;
+}
+h3{
+    text-align: center;
+}
+.game{
+  display:flex;
+  justify-content: center;
+}
