@@ -3,7 +3,7 @@ $view = filter_input(INPUT_GET, "view");
 
 include("./pages/template/header.php");
 switch ($view) {
-  case 'acao_aventura':
+  case 'acao-aventura':
     include("./pages/conteudo_acao_aventura.php");
     break;
 

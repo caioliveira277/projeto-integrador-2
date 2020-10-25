@@ -85,13 +85,11 @@ header nav li::before {
 .form-email-contact{
   background: #F2F2F2;
   padding: 50px 0;
-  width: 90vw;
   margin: 0 auto;
 }
 .title-email-home{
   background: #F2F2F2;
   border-top: 4px solid #c4c4c4;
-  width: 90vw;
   margin: 0 auto;
 }
 
