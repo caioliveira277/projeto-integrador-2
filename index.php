@@ -15,6 +15,9 @@ $view = filter_input(INPUT_GET, "view");
       case 'contato':
         include("./pages/contato.php");
       break;
+      case 'terror':
+        include("./pages/terror.php");
+      break;
       default:
         include("./pages/home.php");
         break;
