@@ -12,7 +12,7 @@
                     <h4>Alex Teixeira</h4>
                     <div class="d-flex justify-content-between px-5">
                         <p>Função: Designer</p>
-                        <p>R.A: 999999999999</p>
+                        <p>R.A: 2650832013009</p>
                     </div>
                     <p>Página feita: Quem Somos</p>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -26,7 +26,7 @@
                     <h4>Guilherme Moreira</h4>
                     <div class="d-flex justify-content-between px-5">
                         <p>Função: Designer</p>
-                        <p>R.A: 999999999999</p>
+                        <p>R.A: 2650832013001</p>
                     </div>
                     <p>Página feita: Quem Somos</p>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -42,7 +42,7 @@
                     <h4>Caio Oliveira</h4>
                     <div class="d-flex justify-content-between px-5">
                         <p>Função: Gerente</p>
-                        <p>R.A: 999999999999</p>
+                        <p>R.A: 2650832013013</p>
                     </div>
                     <p>Página feita: Quem Somos</p>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -58,7 +58,7 @@
                     <h4>Leonardo Bozzi</h4>
                     <div class="d-flex justify-content-between px-5">
                         <p>Função: Programador</p>
-                        <p>R.A: 999999999999</p>
+                        <p>R.A: 2650832013008</p>
                     </div>
                     <p>Página feita: Quem Somos</p>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -72,7 +72,7 @@
                     <h4>Juarez Caetano</h4>
                     <div class="d-flex justify-content-between px-5">
                         <p>Função: Programador</p>
-                        <p>R.A: 999999999999</p>
+                        <p>R.A: 2650832013004</p>
                     </div>
                     <p>Página feita: Quem Somos</p>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
