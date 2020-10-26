@@ -28,8 +28,8 @@
         <nav>
           <ul class="list-inline mb-0 d-flex flex-column align-items-center">
             <li class="mb-4 d-flex"><a href="./index.php">Início</a></li>
-            <li class="mb-4 d-flex"><a href="./index.php?view=quem_somos.php">Quem somos</a></li>
-            <li class="mb-4 d-flex"><a href="./index.php?view=normas_utilizacao.php">Normas de utilização</a></li>
+            <li class="mb-4 d-flex"><a href="./index.php?view=quem-somos">Quem somos</a></li>
+            <li class="mb-4 d-flex"><a href="./index.php?view=normas-utilizacao">Normas de utilização</a></li>
             <li class="mb-4 d-flex"><a href="./index.php?view=contato">Contato</a></li>
           </ul>
         </nav>
