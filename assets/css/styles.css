@@ -46,15 +46,16 @@ header nav li::before {
   width: 60px;
 }
 
-/* Paginas de conteudos */
-.pagina-conteudo .autor-postagem .nome{
+.autor-postagem .nome{
   font-size: 20px;
 }
-.pagina-conteudo .conteudo{
+.conteudo{
   font-size: 18px;
-}
-.pagina-conteudo .conteudo{
   padding: 0 5rem;
+}
+img.img-fluid {
+  margin: 0 auto;
+  display: block;
 }
 
 /* HOME */

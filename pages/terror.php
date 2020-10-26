@@ -1,4 +1,4 @@
-<main class="pagina-conteudo">
+<main class="pagina-terror">
   <section class="container pt-1">
     <h1 class="py-5 mt-3">
       É no medo que mostramos o nosso verdadeiro eu
