@@ -5,7 +5,7 @@
         </h1>
         <div class="row autor-postagem pt-5 mt-3">
             <figure class="col-6 d-flex">
-                <img src="./assets/images/perfil.png" class="rounded-circle img-perfil mr-3" alt="">
+                <img src="./assets/images/perfil.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
                 <figcaption>
                     <div class="d-flex">
                         <p class="font-weight-normal mb-0 nome">Leonardo Bozzi</p>
@@ -39,7 +39,7 @@
         </div>
     </section>
     <section class="container">
-        <img src="./assets/images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png" class="img-fluid" alt="">
+        <img src="./assets/images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png" class="img-fluid" alt="Imagem mostrando parte do cenário do jogo Rio Raised in Oblivion, uma arma apontando para um corredor">
         <div class="conteudo">
             <p class="mt-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
@@ -51,7 +51,7 @@
         <h2 class="my-5 pb-5">VEJA AGORA ALGUNS GAMES BRASILEIROS DE AÇÃO E AVENTURA</h2>
         <div class="conteudo">
             <h3 class="mb-3 text-primary">171</h3>
-            <img src="./assets/images/171.png" class="img-fluid" alt="">
+            <img src="./assets/images/171.png" class="img-fluid" alt="Imagem mostrando parte do cenário do jogo 171, um personagem atirando contra um carro">
             <p class="mt-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
             </p>
@@ -61,7 +61,7 @@
         </div>
         <div class="conteudo">
             <h2 class="mb-3 mt-5 pt-5 text-primary">RIO - RAISED IN OBLIVION</h2>
-            <img src="./assets/images/rio.png" class="img-fluid" alt="">
+            <img src="./assets/images/rio.png" class="img-fluid" alt="Imagem mostrando um de seus personagens do jogo Rio Raised in Oblivion, em frente a uma pedra com escritas">
             <p class="mt-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
             </p>

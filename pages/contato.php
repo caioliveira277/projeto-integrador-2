@@ -1,4 +1,4 @@
-<main class="page-contact">
+<main class="pagina-contato">
 
 <section class="container">
       <div class="my-5 text-center">
@@ -10,24 +10,24 @@
           <h2 class="h4 mt-3 text-center">NOSSAS PRIORIDADES</h2>
           <div class="row">
 
-          <div class="card col-md-12 mx-auto mt-5 border border-primary" style="max-width: 18rem;">
-            <img id="card_photo" src="./assets/icons/controle.svg" style="max-width: 5rem; max-height: 5rem;"  class="card-img-top mx-auto " alt="icone de um controle preto">
+          <div class="card col-md-12 mx-auto mt-5 border border-primary">
+            <img id="card_photo" src="./assets/icons/controle.svg"  class="card-img-top mx-auto " alt="icone de um controle preto">
             <div class="card-body">
               <h5 class="card-title">Experiência</h5>
                 <p class="card-text display-5 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the.</p>
             </div>
           </div>
 
-          <div class="card col-md-6 mx-auto mt-5 my-2 border border-primary" style="width: 18rem;">
-            <img id="card_photo" src="./assets/icons/raio.svg" style="max-width: 5rem; max-height: 5rem;"  class="card-img-top mx-auto" alt="icone de um raio preto">
+          <div class="card col-md-6 mx-auto mt-5 my-2 border border-primary">
+            <img id="card_photo" src="./assets/icons/raio.svg"  class="card-img-top mx-auto" alt="icone de um raio preto">
             <div class="card-body">
               <h5 class="card-title">Agilidade</h5>
                 <p class="card-text display-5 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the.</p>
             </div>
           </div>
 
-          <div class="card col-md-6 mx-auto mt-5 my-2 border border-primary" style="width: 18rem; ">
-            <img id="card_photo" src="./assets/icons/pacman.svg" style="max-width: 5rem; max-height: 5rem;"  class="card-img-top mx-auto" alt="icone do personagem do pacman preto">
+          <div class="card col-md-6 mx-auto mt-5 my-2 border border-primary">
+            <img id="card_photo" src="./assets/icons/pacman.svg"  class="card-img-top mx-auto" alt="icone do personagem do pacman preto">
             <div class="card-body">
               <h5 class="card-title">Dinanismo</h5>
                 <p class="card-text display-5 text-secondary">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the.</p>

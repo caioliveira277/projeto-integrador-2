@@ -5,7 +5,7 @@
     </h1>
     <div class="row autor-postagem pt-5 mt-3">
       <figure class="col-6 d-flex">
-        <img src="./assets/images/padrao-perfil.png" class="rounded-circle img-perfil mr-3" alt="">
+        <img src="./assets/images/padrao-perfil.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
         <figcaption>
           <div class="d-flex">
             <p class="font-weight-normal mb-0 nome">Guilherme Moreira dos Santos</p>
@@ -39,7 +39,7 @@
     </div>
   </section>
   <section class="container">
-    <img src="./assets/images/Fobia-o-Jogo-large.png" class="img-fluid" alt="">
+    <img src="./assets/images/Fobia-o-Jogo-large.png" class="img-fluid" alt="Imagem de apresentação do jogo Fobia, letras em frente a um cenário">
     <div class="conteudo">
       <p class="mt-5">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.

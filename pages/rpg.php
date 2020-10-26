@@ -5,7 +5,7 @@
         </h1>
         <div class="row autor-postagem pt-5 mt-3">
             <figure class="col-6 d-flex">
-                <img src="./assets/images/perfil.png" class="rounded-circle img-perfil mr-3" alt="">
+                <img src="./assets/images/perfil.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
                 <figcaption>
                     <div class="d-flex">
                         <p class="font-weight-normal mb-0 nome">Juarez Caetano</p>
@@ -39,7 +39,7 @@
         </div>
     </section>
     <section class="container">
-        <img class="img-fluid" src="./assets/images/rpg_header.png" alt="Lenin" />
+        <img class="img-fluid" src="./assets/images/rpg_header.png" alt="Imagem do jogo Lenin The Lion, um leão segurando um guarda-chuva rosa" />
         <div class="conteudo">
             <p class="mt-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
@@ -51,7 +51,7 @@
         <h2 class="my-5 pb-5">VEJA AGORA ALGUNS GAMES BRASILEIROS DE RPG</h2>
         <div class="conteudo">
             <h3 class="mb-3 text-primary">Lennin</h3>
-            <img class="img-fluid" src="./assets/images/rpg_section1.jpg" alt="Lenin" />
+            <img class="img-fluid" src="./assets/images/rpg_section1.jpg" alt="Imagem do jogo Lenin The Lion, o personagem em um ambiente escuro de labirinto" />
             <p class="mt-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
             </p>
@@ -61,7 +61,7 @@
         </div>
         <div class="conteudo">
             <h2 class="mb-3 mt-5 pt-5 text-primary">Ponami</h2>
-            <img class="img-fluid" src="assets/images/rpg_section2.jpg" alt="Lenin" />
+            <img class="img-fluid" src="assets/images/rpg_section2.jpg" alt="Imagem de apresentação do jogo Ponami, uma personagem segurando um arco" />
             <p class="mt-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
             </p>

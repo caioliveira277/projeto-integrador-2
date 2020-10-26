@@ -110,3 +110,8 @@ img.img-fluid {
 .text-comment-name {
   color: #6699ff;
 }
+
+
+.pagina-contato img {
+  max-width: 150px;
+}
