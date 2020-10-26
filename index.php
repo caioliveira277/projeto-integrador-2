@@ -15,6 +15,9 @@
       case 'contato':
         include("./pages/contato.php");
       break;
+      case 'quemSomos':
+        include("./pages/quemSomos.php");
+      break;
       default:
         include("./pages/home.php");
         break;
