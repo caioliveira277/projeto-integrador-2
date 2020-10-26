@@ -7,7 +7,7 @@
 
 
       <div class="col-sm-6 bg-light mt-3" id="perguntasFrequentes" style="" data-children=".pergunta">
-      <h4 class=" text-center display-5 mt-3">O que fazemos com seus dados ?</h4>
+        <h4 class=" text-center display-5 mt-3">O que fazemos com seus dados ?</h4>
         <div class="pergunta py-2">
           <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta1" aria-expanded="true" aria-controls="pergunta1">Posso colocar meus dados no site ?</a>
           <div id="pergunta1" class="collapse show" role="tabpanel">
@@ -50,7 +50,7 @@
 
 
       <div class="col-sm-6 bg-light mt-3" id="perguntasFrequentes" data-children=".pergunta">
-      <h4 class="display-5 text-center mt-3">Quais são minhas responsabilidades ?</h4>
+        <h4 class="display-5 text-center mt-3">Quais são minhas responsabilidades ?</h4>
         <div class="pergunta py-2">
           <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta5" aria-expanded="true" aria-controls="pergunta5">Posso copiar a notícia e modificar ?</a>
           <div id="pergunta5" class="collapse show" role="tabpanel">

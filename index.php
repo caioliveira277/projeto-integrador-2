@@ -4,7 +4,7 @@ $view = filter_input(INPUT_GET, "view");
   include("./pages/template/header.php");
     switch ($view) {
       case 'acao-aventura':
-        include("./pages/conteudo_acao_aventura.php");
+        include("./pages/acao-aventura.php");
         break;
       case 'rpg':
         include("./pages/rpg.php");
@@ -16,7 +16,10 @@ $view = filter_input(INPUT_GET, "view");
         include("./pages/contato.php");
       break;
       case 'quem-somos':
-        include("./pages/quem_somos.php");
+        include("./pages/quem-somos.php");
+      break;
+      case 'normas-utilizacao':
+        include("./pages/normas-utilizacao.php");
       break;
       case 'terror':
         include("./pages/terror.php");
