@@ -13,6 +13,9 @@ switch ($view) {
   case 'home':
     include("./pages/home.php");
     break;
+  case 'quem_somos':
+    include("./pages/quem_somos.php");
+    break;
   default:
     include("./pages/home.php");
     break;
