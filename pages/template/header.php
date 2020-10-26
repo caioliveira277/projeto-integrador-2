@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="./assets/css/styles.css">
   <link rel="shortcut icon" href="./assets/images/favicon.png" type="image/x-icon">
-  <title>Document</title>
+  <title>Portal dos Games</title>
 </head>
 <body>
   <header class="py-2 mb-5">
@@ -17,9 +17,9 @@
       <nav>
         <ul class="list-inline d-flex mb-0">
           <li class="mx-1 d-flex"><a href="./index.php">Início</a></li>
-          <li class="mx-1 d-flex"><a href="./pages/quem_somos.php">Quem somos</a></li>
-          <li class="mx-1 d-flex"><a href="./pages/normas_utilizacao.php">Normas de utilização</a></li>
-          <li class="mx-1 d-flex"><a href="./pages/contato.php">Contato</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php?view=quem-somos">Quem somos</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php?view=normas-utilizacao">Normas de utilização</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php?view=contato">Contato</a></li>
         </ul>
       </nav>
     </div>

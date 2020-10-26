@@ -1,83 +1,87 @@
-<div class="container">
-    <div class="row">
-        <div class="col-12">
-            <h3>Quem Somos</h3>
+<main>
+
+  <section class="container">
+    <h1 class="text-left">Normas de utilização</h1>
+
+    <div class="row mt-5">
+
+
+      <div class="col-sm-6 bg-light mt-3" id="perguntasFrequentes" style="" data-children=".pergunta">
+        <h4 class=" text-center display-5 mt-3">O que fazemos com seus dados ?</h4>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta1" aria-expanded="true" aria-controls="pergunta1">Posso colocar meus dados no site ?</a>
+          <div id="pergunta1" class="collapse show" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
         </div>
+        <div class="dropdown-divider"></div>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta2" aria-expanded="true" aria-controls="pergunta2">Como são utilizados meus dados ?</a>
+          <div id="pergunta2" class="collapse" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta3" aria-expanded="true" aria-controls="pergunta3">Vou receber um SPAN ?</a>
+          <div id="pergunta3" class="collapse" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta4" aria-expanded="true" aria-controls="pergunta4">Vou receber propaganda de outros sites ?</a>
+          <div id="pergunta4" class="collapse" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="col-sm-6 bg-light mt-3" id="perguntasFrequentes" data-children=".pergunta">
+        <h4 class="display-5 text-center mt-3">Quais são minhas responsabilidades ?</h4>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta5" aria-expanded="true" aria-controls="pergunta5">Posso copiar a notícia e modificar ?</a>
+          <div id="pergunta5" class="collapse show" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta6" aria-expanded="true" aria-controls="pergunta6">Posso usar as fotos para meu produto ?</a>
+          <div id="pergunta6" class="collapse" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta7" aria-expanded="true" aria-controls="pergunta7">Posso modificar as imagens e os créditos ?</a>
+          <div id="pergunta7" class="collapse" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+        <div class="pergunta py-2">
+          <a class="lead" data-toggle="collapse" data-parent="#perguntasFrequentes" href="#pergunta8" aria-expanded="true" aria-controls="pergunta8">Como devo compartilhar as notícias ?</a>
+          <div id="pergunta8" class="collapse" role="tabpanel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium lorem non vestibulum scelerisque. Proin a vestibulum sem, eget tristique massa. Aliquam lacinia rhoncus nibh quis ornare.</p>
+          </div>
+        </div>
+        <div class="dropdown-divider"></div>
+      </div>
     </div>
-    <div class="row">
-        <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
-            <div class="card d-flex justify-content-center align-items-center p-3" style="width: 35rem;">
-                <img src="assets/images/alex_lg.png" class="card-img-top" alt="Alex Teixeira da Fonseca" style="max-width: 340px;">
-                <div class="card-body text-center">
-                    <h4>Alex Teixeira</h4>
-                    <div class="d-flex justify-content-between px-5">
-                        <p>Função: Designer</p>
-                        <p>R.A: 2650832013009</p>
-                    </div>
-                    <p>Página feita: Quem Somos</p>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
-            <div class="card d-flex justify-content-center align-items-center p-3" style="width: 35rem;">
-                <img src="assets/images/quem_somos.png" class="card-img-top" alt="Guilherme Moreira dos Santos" style="max-width: 340px;">
-                <div class="card-body text-center">
-                    <h4>Guilherme Moreira</h4>
-                    <div class="d-flex justify-content-between px-5">
-                        <p>Função: Designer</p>
-                        <p>R.A: 2650832013001</p>
-                    </div>
-                    <p>Página feita: Quem Somos</p>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
-            <div class="card d-flex justify-content-center align-items-center p-3" style="width: 35rem;">
-                <img src="assets/images/quem_somos.png" class="card-img-top" alt="Caio Henrique da Silva Oliveira" style="max-width: 340px;">
-                <div class="card-body text-center">
-                    <h4>Caio Oliveira</h4>
-                    <div class="d-flex justify-content-between px-5">
-                        <p>Função: Gerente</p>
-                        <p>R.A: 2650832013013</p>
-                    </div>
-                    <p>Página feita: Quem Somos</p>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
-            <div class="card d-flex justify-content-center align-items-center p-3" style="width: 35rem;">
-                <img src="assets/images/quem_somos.png" class="card-img-top" alt="Leonardo Bozzi da Silva" style="max-width: 340px;">
-                <div class="card-body text-center">
-                    <h4>Leonardo Bozzi</h4>
-                    <div class="d-flex justify-content-between px-5">
-                        <p>Função: Programador</p>
-                        <p>R.A: 2650832013008</p>
-                    </div>
-                    <p>Página feita: Quem Somos</p>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
-            <div class="card d-flex justify-content-center align-items-center p-3" style="width: 35rem;">
-                <img src="assets/images/quem_somos.png" class="card-img-top" alt="Guilherme Moreira dos Santos" style="max-width: 340px;">
-                <div class="card-body text-center">
-                    <h4>Juarez Caetano</h4>
-                    <div class="d-flex justify-content-between px-5">
-                        <p>Função: Programador</p>
-                        <p>R.A: 2650832013004</p>
-                    </div>
-                    <p>Página feita: Quem Somos</p>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
+
+  </section>
+</main>

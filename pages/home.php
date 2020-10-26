@@ -1,5 +1,4 @@
-<!-- ESSA PAGINA TA MT BOA, O CARA Q FEZ DOMINA -->
-<div class="container-fluid">
+<main class="pagina-home container">
     <div class="row d-flex justify-content-center">
         <div class="col-lg-8 col-sm-12 text-center">
             <h1 class="title-home">Jogos que são lançados aqui no Brasil mas não temos a menor ideia. </h1>
@@ -106,31 +105,29 @@
     <div class="row m-2">
         <div class="col-lg-6 col-md-12 col-sm-12 text-center games-home">
             <div class="terror">
-                <a href="#"><img class="img-fluid m-2" src="./assets/images/terror.png"></a>
+                <a href="./index.php?view=terror"><img class="img-fluid m-2" src="./assets/images/terror.png"></a>
             </div>
         </div>
         <div class=" col-lg-6 col-md-12 col-sm-12 text-center games-home">
             <div class="acao">
-                <a href="./pages/conteudo_acao_aventura.php"><img class="img-fluid m-2" src="./assets/images/acao.png"></a>
+                <a href="./index.php?view=acao-aventura"><img class="img-fluid m-2" src="./assets/images/acao.png"></a>
             </div>
         </div>
     </div>
     <div class="row m-2 games-home">
         <div class="col-lg-6 col-md-12 col-sm-12 text-center games-home">
             <div class="rpg">
-                <a href="#"><img class="img-fluid m-2" src="./assets/images/rpg.png"></a>
+                <a href="./index.php?view=rpg"><img class="img-fluid m-2" src="./assets/images/rpg.png"></a>
             </div>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 text-center games-home">
             <div class="pixel">
-                <a href="#"><img class="img-fluid m-2" src="./assets/images/pixel.png"></a>
+                <a href="./index.php?view=pixel"><img class="img-fluid m-2" src="./assets/images/pixel.png"></a>
             </div>
         </div>
     </div>
     <div class="row d-flex justify-content-center align-items-center text-center title-email-home">
-        <div class="col-7">
-            <h1>Receba as notícias na hora em que elas acontecem</h1>
-        </div>
+        <h1>Receba as notícias na hora em que elas acontecem</h1>
     </div>
     <div class="row d-flex justify-content-center align-items-center form-email-contact">
         <div class="col-lg-5 col-md-8 col-sm-6">
@@ -153,4 +150,4 @@
             <small>Você receberá um e-mail de confirmação em seguida.</small>
         </div>
     </div>
-</div>
+</main>
