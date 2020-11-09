@@ -119,3 +119,6 @@ a.active {
   color: #6699FF;
   text-decoration: underline;
 }
+.quem-somos .card {
+  max-width:  480px;
+}
