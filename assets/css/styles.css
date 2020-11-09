@@ -115,3 +115,7 @@ img.img-fluid {
 .pagina-contato img {
   max-width: 150px;
 }
+a.active {
+  color: #6699FF;
+  text-decoration: underline;
+}

@@ -27,10 +27,10 @@
         </ul>
         <nav>
           <ul class="list-inline mb-0 d-flex flex-column align-items-center">
-            <li class="mb-4 d-flex"><a href="./index.php">Início</a></li>
-            <li class="mb-4 d-flex"><a href="./index.php?view=quem-somos">Quem somos</a></li>
-            <li class="mb-4 d-flex"><a href="./index.php?view=normas-utilizacao">Normas de utilização</a></li>
-            <li class="mb-4 d-flex"><a href="./index.php?view=contato">Contato</a></li>
+          <li class="mb-4 d-flex"><a href="./index.php" class="<?= !$view ? 'active':'' ?>">Início</a></li>
+          <li class="mb-4 d-flex"><a href="./index.php?view=quem-somos" class="<?= $view === "quem-somos"? 'active':'' ?>">Quem somos</a></li>
+          <li class="mb-4 d-flex"><a href="./index.php?view=normas-utilizacao" class="<?= $view === "normas-utilizacao"? 'active':'' ?>">Normas de utilização</a></li>
+          <li class="mb-4 d-flex"><a href="./index.php?view=contato" class="<?= $view === "contato"? 'active':'' ?>">Contato</a></li>
           </ul>
         </nav>
       </div>

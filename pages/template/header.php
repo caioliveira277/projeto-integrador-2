@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,10 +16,10 @@
       </a>
       <nav>
         <ul class="list-inline d-flex mb-0">
-          <li class="mx-1 d-flex"><a href="./index.php">Início</a></li>
-          <li class="mx-1 d-flex"><a href="./index.php?view=quem-somos">Quem somos</a></li>
-          <li class="mx-1 d-flex"><a href="./index.php?view=normas-utilizacao">Normas de utilização</a></li>
-          <li class="mx-1 d-flex"><a href="./index.php?view=contato">Contato</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php" class="<?= !$view ? 'active':'' ?>">Início</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php?view=quem-somos" class="<?= $view === "quem-somos"? 'active':'' ?>">Quem somos</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php?view=normas-utilizacao" class="<?= $view === "normas-utilizacao"? 'active':'' ?>">Normas de utilização</a></li>
+          <li class="mx-1 d-flex"><a href="./index.php?view=contato" class="<?= $view === "contato"? 'active':'' ?>">Contato</a></li>
         </ul>
       </nav>
     </div>
