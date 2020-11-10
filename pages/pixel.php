@@ -5,7 +5,7 @@
         </h1>
         <div class="row autor-postagem pt-5 mt-3">
             <figure class="col-6 d-flex">
-                <img src="./assets/images/perfil.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
+                <img src="./assets/images/juaraz_sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
                 <figcaption>
                     <div class="d-flex">
                         <p class="font-weight-normal mb-0 nome">Juarez Caetano</p>

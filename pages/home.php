@@ -6,7 +6,7 @@
     </div>
     <div class="row autor-postagem pt-5 mt-3">
         <figure class="col-lg-6 col-sm-12 d-flex justify-content-md-start justify-content-sm-center">
-            <img src="./assets/images/alex.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
+            <img src="./assets/images/alex_sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
             <figcaption>
                 <div class="d-flex">
                     <p class="font-weight-normal mb-0 nome">Alex Teixeira</p>
