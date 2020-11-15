@@ -1,11 +1,11 @@
 <main class="pagina-home container">
     <div class="row d-flex justify-content-center">
-        <div class="col-lg-8 col-sm-12 text-center">
+        <div class="col-lg-8 text-center">
             <h1 class="title-home">Jogos que são lançados aqui no Brasil mas não temos a menor ideia. </h1>
         </div>
     </div>
     <div class="row autor-postagem pt-5 mt-3">
-        <figure class="col-lg-6 col-sm-12 d-flex justify-content-md-start justify-content-sm-center">
+        <figure class="col-lg-6 d-flex justify-content-md-start justify-content-sm-center">
             <img src="./assets/images/alex_sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
             <figcaption>
                 <div class="d-flex">
@@ -15,7 +15,7 @@
                 <p class="font-weight-light mb-0 mt-1">22 de setembro de 2020</p>
             </figcaption>
         </figure>
-        <ul class="list-inline d-flex mb-0 col-lg-6 col-sm-12 p-sm-5 align-items-center justify-content-end justify-content-sm-center">
+        <ul class="list-inline d-flex mb-0 col-lg-6 p-sm-5 align-items-center justify-content-end justify-content-sm-center">
             <li class="mx-3">
                 <a href="https://www.facebook.com/" target="_blank">
                     <img src="./assets/icons/facebook-black.svg" alt="Logomarca Facebook">
@@ -57,10 +57,10 @@
                         <p>POST SHOW ALEX!</p>
                         <small class="text-comment-name">MrFall</small>
                         <hr>
-                        <p>PARABENS!!!!</p>
+                        <p>PARABENS!!!</p>
                         <small class="text-comment-name">shaolinmatadordeporco</small>
                         <hr>
-                        <p>SURPREENDENTE!!!!</p>
+                        <p>SURPREENDENTE!!!</p>
                         <small class="text-comment-name">viniccius13</small>
                         <hr>
                     </div>
@@ -89,10 +89,10 @@
         </div>
     </div>
     <div class="row d-flex justify-content-center align-items-center">
-        <div class="col-lg-4 col-md-9 col-sm-9 text-center">
-            <img src="./assets/images/artigo-home.png" class="p-5" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
+        <div class="col-lg-4 col-md-9 text-center">
+            <img src="./assets/images/artigo-home.png" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
         </div>
-        <div class="col-lg-5 col-md-9 col-sm-9">
+        <div class="col-lg-5 col-md-9 p-0">
             <p class="main-text-home">Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.</p>
         </div>
     </div>
@@ -102,44 +102,42 @@
             <hr>
         </div>
     </div>
-    <div class="row m-2">
-        <div class="col-lg-6 col-md-12 col-sm-12 text-center games-home">
+    <div class="row m-lg-4">
+        <div class="col-lg-6 col-md-12 text-center games-home">
             <div class="terror">
-                <a href="./index.php?view=terror"><img class="img-fluid m-2" src="./assets/images/terror.png" alt="Ilustração de um cartão com desenhos sobre jogos de terror"></a>
+                <a href="./index.php?view=terror"><img class="img-fluid m-lg-2 mb-4 mb-lg-0" src="./assets/images/terror.png" alt="Ilustração de um cartão com desenhos sobre jogos de terror"></a>
             </div>
         </div>
-        <div class=" col-lg-6 col-md-12 col-sm-12 text-center games-home">
+        <div class="col-lg-6 col-md-12 text-center games-home">
             <div class="acao">
-                <a href="./index.php?view=acao-aventura"><img class="img-fluid m-2" src="./assets/images/acao.png"></a>
+                <a href="./index.php?view=acao-aventura"><img class="img-fluid m-lg-2 mb-4 mb-lg-0" src="./assets/images/acao.png"></a>
             </div>
         </div>
     </div>
-    <div class="row m-2 games-home">
-        <div class="col-lg-6 col-md-12 col-sm-12 text-center games-home">
+    <div class="row m-lg-4 games-home">
+        <div class="col-lg-6 col-md-12 text-center games-home">
             <div class="rpg">
-                <a href="./index.php?view=rpg"><img class="img-fluid m-2" src="./assets/images/rpg.png" alt="Ilustração de um cartão com desenhos sobre jogos de RPG"></a>
+                <a href="./index.php?view=rpg"><img class="img-fluid m-lg-2 mb-4 mb-lg-0" src="./assets/images/rpg.png" alt="Ilustração de um cartão com desenhos sobre jogos de RPG"></a>
             </div>
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 text-center games-home">
+        <div class="col-lg-6 col-md-12 text-center games-home">
             <div class="pixel">
-                <a href="./index.php?view=pixel"><img class="img-fluid m-2" src="./assets/images/pixel.png" alt="Ilustração de um cartão com desenhos sobre jogos feitos em Pixels"></a>
+                <a href="./index.php?view=pixel"><img class="img-fluid m-lg-2 mb-4 mb-lg-0" src="./assets/images/pixel.png" alt="Ilustração de um cartão com desenhos sobre jogos feitos em Pixels"></a>
             </div>
         </div>
     </div>
-    <div class="row d-flex justify-content-center align-items-center text-center title-email-home">
+    <div class="row d-flex justify-content-center align-items-center text-center title-email-home mt-4">
         <h1>Receba as notícias na hora em que elas acontecem</h1>
     </div>
     <div class="row d-flex justify-content-center align-items-center form-email-contact">
         <div class="col-lg-5 col-md-8 col-sm-6">
             <form class="p-2 form-home">
                 <div class="form-group">
-                    <input type="email" class="form-control" id="email">
+                    <input type="text" class="form-control" placeholder="Digite seu nome completo ">
                 </div>
                 <div class="form-group">
-                    <input type="password" class="form-control" id="password" placeholder="Senha">
-
+                    <input type="email" class="form-control" placeholder="teste@email.com">
                 </div>
-                <button type="submit" id="send" class="btn btn-primary" style="display: none;"></button>
             </form>
         </div>
         <div class="col-lg-4 col-md-8 col-sm-6 p-2 text-center">
