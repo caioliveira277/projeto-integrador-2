@@ -122,3 +122,35 @@ a.active {
 .quem-somos .card {
   max-width:  480px;
 }
+.navbar-toggler {
+  border: 1px solid #ffffff;
+  padding: 10px;
+}
+
+@media screen and (min-width: 992px){
+  .fixed-bottom {
+    position: relative;
+  }
+  .links.collapse {
+    display: flex;
+  }
+  nav.collapse {
+    margin-top: -43px;
+    margin-bottom: 30px;
+  }
+  .logos {
+    margin-bottom: -110px;
+  }
+}
+/* mobile */
+@media screen and (max-width: 992px){
+  header nav li::before {
+    content: none;
+  }
+  .fixed-bottom {
+    background: #2e2e2e;
+  }
+  .face {
+    width: 14px !important;
+  }
+}
