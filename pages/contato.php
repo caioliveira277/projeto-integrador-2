@@ -4,7 +4,7 @@
             <h1 class="display-4 text-left">Contatos</h1>
         </div>
         <div class="row">
-            <div class="col bg-light">
+            <div class="col bg-light p-5">
                 <h2 class="h4 mt-3 text-center">NOSSAS PRIORIDADES</h2>
                 <div class="row">
                     <div class="card col-md-12 mx-auto mt-5 border border-primary">
