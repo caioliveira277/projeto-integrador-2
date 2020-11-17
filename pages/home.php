@@ -1,4 +1,4 @@
-<main class="pagina-home container">
+<main class="pagina-home container mt-5">
     <div class="row d-flex justify-content-center">
         <div class="col-lg-8 text-center">
             <h1 class="title-home">Jogos que são lançados aqui no Brasil mas não temos a menor ideia. </h1>

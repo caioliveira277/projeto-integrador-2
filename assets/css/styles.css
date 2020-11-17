@@ -126,13 +126,22 @@ a.active {
   border: 1px solid #ffffff;
   padding: 10px;
 }
-.banner-postagem {
-  background: url(../images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png);
-  height: 774px;
-  color: #ffffff;
-}
 em {
   font-style: normal;
+}
+.numero-artigo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 70px;
+  z-index: 10;
+  transform: translate(-50%, -50%);
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+}
+@media screen and (max-width: 778px) {
+  .numero-artigo {
+    top: 5%;
+  }
 }
 
 @media screen and (min-width: 992px){
@@ -161,4 +170,26 @@ em {
   .face {
     width: 14px !important;
   }
+  article {
+    padding-top: 40%;
+  }
+}
+
+.acao-aventura .banner-postagem {
+  background: url(../images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png) center;
+  background-size: cover;
+  height: 450px;
+  color: #ffffff;
+}
+article > .bg-opacidade {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.acao-aventura .banner-1 {
+  background: url(../images/171-artigo.png) center;
+  background-size: cover;
+}
+.acao-aventura .banner-2 {
+  background: url(../images/rio-artigo.png) center;
+  background-size: cover;
 }
