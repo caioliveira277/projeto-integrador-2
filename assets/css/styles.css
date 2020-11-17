@@ -126,6 +126,14 @@ a.active {
   border: 1px solid #ffffff;
   padding: 10px;
 }
+.banner-postagem {
+  background: url(../images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png);
+  height: 774px;
+  color: #ffffff;
+}
+em {
+  font-style: normal;
+}
 
 @media screen and (min-width: 992px){
   .fixed-bottom {
