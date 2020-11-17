@@ -80,7 +80,7 @@
         </div>
     </div>
     <div class="row d-flex justify-content-center align-items-center">
-        <div class="col-9">
+        <div class="col-12 col-lg-9">
             <p class="main-text-home">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
             </p>
@@ -90,14 +90,14 @@
     </div>
     <div class="row d-flex justify-content-center align-items-center">
         <div class="col-lg-4 col-md-9 text-center">
-            <img src="./assets/images/artigo-home.png" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
+            <img src="./assets/images/artigo-home.png" class="img-fluid mb-2" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
         </div>
-        <div class="col-lg-5 col-md-9 p-0">
+        <div class="col-lg-5 col-md-9">
             <p class="main-text-home">Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.</p>
         </div>
     </div>
-    <div class="row m-5 d-flex justify-content-center align-items-center">
-        <div class="col-6 text-center">
+    <div class="row m-2 mt-4 m-lg-5 d-flex justify-content-center align-items-center">
+        <div class="col-12 col-lg-6 text-center">
             <h3>Conheça os estilos de jogos que são lançados aqui no Brasil e as empresas que os criaram.</h3>
             <hr>
         </div>
