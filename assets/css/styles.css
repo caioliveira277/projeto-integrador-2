@@ -185,6 +185,7 @@ article > .bg-opacidade {
   background: rgba(0, 0, 0, 0.6);
 }
 
+/* banners */
 .acao-aventura .banner-1 {
   background: url(../images/171-artigo.png) center;
   background-size: cover;

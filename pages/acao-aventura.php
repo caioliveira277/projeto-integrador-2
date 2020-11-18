@@ -1,5 +1,5 @@
 <main class="container acao-aventura">
-    <div class="d-flex flex-column justify-content-center banner-postagem mt-2">
+    <div class="d-flex flex-column justify-content-center banner-postagem mt-2 px-3">
         <em class="text-center m-auto">
             <h1>Jogos de Ação e aventura</h1>
             <h2 class="mt-4">Grandes clássicos para reunir o squad e partir para cima </h2>
