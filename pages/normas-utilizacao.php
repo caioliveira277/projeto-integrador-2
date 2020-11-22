@@ -1,6 +1,6 @@
-<main class="pagina-normas py-5">
-	<h1 class="container">Normas de utilização</h1>
-	<section class="mt-5 container-md">
+<main class="pagina-normas bg-cinza py-5">
+	<h1 class="container titulo-paginas">Normas de utilização</h1>
+	<section class="mt-5 container">
 		<div class="justify-content-between d-block d-sm-flex">
 			<article class="perguntas bg-light p-2 pl-3" id="perguntasFrequentes" data-children=".pergunta">
 				<h4 class="mt-3">O que fazemos com seus dados ?</h4>

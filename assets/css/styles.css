@@ -82,9 +82,12 @@ img.img-fluid {
   border: 1px solid #6699ff;
   filter: brightness(0.645);
 }
-.form-email-contact input{
+input.form-control, textarea.form-control{
   border-color: #004C92;
   border-width: 2px;
+}
+.pagina-contato .card {
+  max-width: 300px;
 }
 
 .form-email-contact{
@@ -111,10 +114,27 @@ img.img-fluid {
   color: #6699ff;
 }
 
-.pagina-normas {
+.bg-cinza {
   background: #E4E4E4;
 }
-.pagina-normas h1{
+.quem-somos .card {
+  background: #F2F2F2;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  max-width: 590px;
+  min-height: 740px;
+}
+.card-prioridades {
+  border-radius: 15px;
+}
+.quem-somos .card-body h2{
+  color: #343434;
+}
+.quem-somos .card-body p{
+  color: #4D4D4D;
+  font-size: 20px;
+}
+h1.titulo-paginas{
   border-left: 1px solid #5B5B5B;
   padding-left: 10px;
 }
@@ -128,9 +148,7 @@ a.active {
 button:focus {
   outline-color: #6699FF;
 }
-.quem-somos .card {
-  max-width:  480px;
-}
+
 .navbar-toggler {
   border: 1px solid #ffffff;
   padding: 10px;

@@ -1,7 +1,7 @@
 <main class="pagina-home container-md mb-5">
     <h1 class="font-weight-bold my-5">Jogos que são lançados aqui no Brasil mas não temos a menor ideia. </h1>
     <section class="row mb-3 align-items-center">
-        <figure class="d-flex mb-0 col-6">
+        <figure class="d-flex mb-0 col-12 col-sm-6">
             <img src="./assets/images/alex_sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
             <figcaption class="row align-items-center">
                 <p class="font-weight-light mb-0 col-auto">Alex Teixeira</p>
@@ -9,7 +9,7 @@
                 <p class="font-weight-light mb-0 mt-2 col-12">22 de setembro de 2020</p>
             </figcaption>
         </figure>
-        <ul class="list-inline d-flex col-6 mb-0 justify-content-end">
+        <ul class="list-inline d-flex col-12 col-sm-6 mt-3 mt-sm-0 mb-0 justify-content-end">
             <li class="mx-3">
                 <a href="https://www.facebook.com/" target="_blank">
                     <img src="./assets/icons/facebook-black.svg" alt="Logomarca Facebook">
