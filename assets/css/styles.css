@@ -82,11 +82,15 @@ img.img-fluid {
   border: 1px solid #6699ff;
   filter: brightness(0.645);
 }
+.form-email-contact input{
+  border-color: #004C92;
+  border-width: 2px;
+}
 
 .form-email-contact{
   background: #F2F2F2;
-  padding: 50px 0;
   margin: 0 auto;
+  border-top: 3px solid #4F4F4F;
 }
 .title-email-home{
   background: #F2F2F2;
@@ -94,17 +98,13 @@ img.img-fluid {
   margin: 0 auto;
 }
 
-.form-home .form-group .form-control:focus {
-  border: 2px solid #00cc0050;
-  box-shadow: 0 0 15px #00cc0050;
-}
-
 .title-home {
   font-weight: 100;
 }
 
-.main-text-home {
+.paragrafo {
   font-size: 20px;
+  line-height: 35px;
 }
 
 .text-comment-name {
@@ -118,6 +118,9 @@ img.img-fluid {
 a.active {
   color: #6699FF;
   text-decoration: underline;
+}
+button:focus {
+  outline-color: #6699FF;
 }
 .quem-somos .card {
   max-width:  480px;
@@ -193,4 +196,9 @@ article > .bg-opacidade {
 .acao-aventura .banner-2 {
   background: url(../images/rio-artigo.png) center;
   background-size: cover;
+}
+.btn-conheca {
+  bottom: 50px;
+  left: 50%;
+  transform: translate(-50%);
 }
