@@ -1,73 +1,35 @@
-<main class="pagina-pixel">
-    <section class="container pt-1">
-        <h1 class="py-5 mt-3">
-            Conheça os jogos em Pixel que fazem sucesso no Brasil
-        </h1>
-        <div class="row autor-postagem pt-5 mt-3">
-            <figure class="col-6 d-flex">
-                <img src="./assets/images/juaraz_sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
-                <figcaption>
-                    <div class="d-flex">
-                        <p class="font-weight-normal mb-0 nome">Juarez Caetano</p>
-                        <a href="#" class="btn btn-success bg-transparent text-success ml-3 p-1" target="_blank">Seguir</a>
-                    </div>
-                    <p class="font-weight-light mb-0 mt-1">22 de setembro de 2020</p>
-                </figcaption>
-            </figure>
-            <ul class="list-inline d-flex mb-0 col-6 align-items-center justify-content-end">
-                <li class="mx-3">
-                    <a href="https://www.facebook.com/" target="_blank">
-                        <img src="./assets/icons/facebook-black.svg" alt="Logomarca Facebook">
-                    </a>
-                </li>
-                <li class="mx-3">
-                    <a href="https://www.instagram.com/" target="_blank">
-                        <img src="./assets/icons/instagram-black.svg" alt="Logomarca Instagram">
-                    </a>
-                </li>
-                <li class="mx-3">
-                    <a href="https://twitter.com/login" target="_blank">
-                        <img src="./assets/icons/twitter-black.svg" alt="Logomarca Twitter">
-                    </a>
-                </li>
-                <li class="mx-3">
-                    <a href="https://br.pinterest.com/" target="_blank">
-                        <img src="./assets/icons/pinterest-black.svg" alt="Logomarca Pinterest">
-                    </a>
-                </li>
-            </ul>
+<main class="pixel bg-preto pb-5">
+    <section class="container-xl px-0 px-lg-2">
+        <div class="d-flex flex-column justify-content-center banner-postagem px-3">
+            <em class="text-center m-auto">
+                <h1 class="titulo-sombreado">JOGOS EM PIXEL ARTE</h1>
+                <h2 class="mt-4 subtitulo-opacidade">Monte seu personagem e volte para passado </h2>
+            </em>
+            <div class="row justify-content-around mb-5 flex-column flex-md-row align-items-center align-items-md-center p-3 bg-botoes-navegacao">
+                <a href="./index.php?view=rpg" class="btn btn-outline-success rounded-pill px-5 my-2 my-md-0 col-12 col-md-4 font-weight-bold w-customizado">RPG</a>    
+                <a href="./index.php?view=terror" class="btn btn-outline-success rounded-pill px-5 my-2 my-md-0 col-12 col-md-4 font-weight-bold w-customizado">TERROR</a>    
+                <a href="./index.php?view=acao-aventura" class="btn btn-outline-success rounded-pill px-5 my-2 my-md-0 col-12 col-md-4 font-weight-bold w-customizado">AÇÃO</a>    
+            </div>
         </div>
-    </section>
-    <section class="container">
-        <img class="img-fluid" src="./assets/images/celeste1.jpg" alt="Imagem mostrando cena do jogo Celeste, uma personagem em meio a blocos roxos" />
-        <div class="conteudo">
-            <p class="mt-5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
-            </p>
-            <p>
-                Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.
-            </p>
-        </div>
-        <h2 class="my-5 pb-5">VEJA AGORA ALGUNS GAMES BRASILEIROS EM PIXEL</h2>
-        <div class="conteudo">
-            <h3 class="mb-3 text-primary">Celeste</h3>
-            <img class="img-fluid" src="./assets/images/celeste_inicio.png" alt="Imagem mostrando cena do jogo Celeste, uma personagem pulando entre montanhas" />
-            <p class="mt-5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
-            </p>
-            <p>
-                Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.
-            </p>
-        </div>
-        <div class="conteudo">
-            <h2 class="mb-3 mt-5 pt-5 text-primary">Chroma Squad (2015)</h2>
-            <img class="img-fluid" src="assets/images/chroma.jpg" alt="Imagem de apresentação do jogo Chrome Squad, personagens ao redor do planeta" />
-            <p class="mt-5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia semper aliquet. Nunc suscipit ullamcorper elit sit amet finibus. Ut et velit fringilla magna tempus ultrices facilisis et leo. Duis a metus eu justo accumsan auctor. Sed eu odio magna. Suspendisse enim dolor, consectetur quis ullamcorper sed, imperdiet non ex. Proin eros dolor, dictum vel lacinia eu, commodo quis sapien. Suspendisse laoreet leo vel lectus gravida, non faucibus velit euismod. Cras vulputate pulvinar porttitor. Vivamus vitae tempor nisi. Sed fermentum sapien augue, sodales blandit mauris porttitor nec. Etiam efficitur odio id imperdiet sollicitudin. Donec auctor dui id lacus tempor, et aliquet risus viverra. Pellentesque dolor lectus, lobortis id ante condimentum, tincidunt elementum risus.
-            </p>
-            <p>
-                Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.
-            </p>
-        </div>
+        <article class="position-relative banner-1 mt-5">
+            <span class="numero-artigo text-success">01</span>
+            <div class="ml-sm-auto col-12 col-sm-9 col-lg-6 bg-opacidade px-0 p-lg-4">
+                <img src="./assets/images/pixel/celeste-sm.png" class="d-block img-fluid d-sm-none" alt="Cena do jogo 171, um personagem atirando contra um carro em meio a rua">
+                <h2 class="text-success text-left text-right ml-1 mr-3 mr-sm-5 pt-3">CELESTE</h2>
+                <p class="text-white bg-opacidade px-3 pl-sm-5 pt-4 pb-5 paragrafo">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper consectetur velit. Curabitur in vestibulum magna. Nullam porttitor sapien lobortis, sagittis diam eget, luctus lorem. Maecenas mauris nulla, ullamcorper ac varius vel, efficitur a sapien. Pellentesque non laoreet felis. Integer elementum in libero id tempor. Curabitur eu ex in lorem vestibulum suscipit. In volutpat feugiat dui, at tempor erat eleifend convallis. In ut leo eu sapien porttitor interdum suscipit id mi.
+                </p>
+            </div>
+        </article>
+        <article class="position-relative banner-2 mt-5 mb-4">
+            <span class="numero-artigo text-success">02</span>
+            <div class="ml-sm-auto col-12 col-sm-9 col-lg-6 bg-opacidade px-0 p-lg-4">
+                <img src="./assets/images/pixel/chroma-squad-sm.png" class="d-block img-fluid d-sm-none" alt="Cena do jogo Rio, um personagem em frente a uma pedra com uma frase escrita">
+                <h2 class="text-success text-left text-right ml-1 mr-3 mr-sm-5 pt-3">CHROMA <br> SQUAD</h2>
+                <p class="text-white bg-opacidade px-3 pl-sm-5 pt-4 pb-5 paragrafo">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper consectetur velit. Curabitur in vestibulum magna. Nullam porttitor sapien lobortis, sagittis diam eget, luctus lorem. Maecenas mauris nulla, ullamcorper ac varius vel, efficitur a sapien. Pellentesque non laoreet felis. Integer elementum in libero id tempor. Curabitur eu ex in lorem vestibulum suscipit. In volutpat feugiat dui, at tempor erat eleifend convallis. In ut leo eu sapien porttitor interdum suscipit id mi.
+                </p>
+            </div>
+        </article>
     </section>
 </main>

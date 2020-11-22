@@ -67,13 +67,6 @@ img.img-fluid {
   cursor: pointer;
 }
 
-.terror:hover,
-.acao:hover,
-.rpg:hover,
-.pixel:hover{
-  filter: opacity(0.875);
-}
-
 .reacoes img{
   cursor: pointer;
 }
@@ -218,8 +211,7 @@ em {
   max-width: 220px;
 }
 
-.acao-aventura .banner-postagem {
-  background: url(../images/banner-rio.png) center;
+.banner-postagem {
   background-size: cover;
   height: 600px;
   color: #ffffff;
@@ -236,18 +228,52 @@ article > .bg-opacidade {
 }
 
 /* banners */
+.acao-aventura .banner-postagem {
+  background: url(../images/acao/banner-acao.png) center;
+}
+.terror .banner-postagem {
+  background: url(../images/terror/banner-terror.png) center;
+}
+.rpg .banner-postagem {
+  background: url(../images/rpg/banner-rpg.png) center;
+}
+.pixel .banner-postagem {
+  background: url(../images/pixel/banner-pixel.png) center;
+}
 @media screen and (min-width: 578px) {
-  .acao-aventura .banner-1 {
-    background: url(../images/171-artigo.png) center;
+  .banner-1, .banner-2 {
     background-size: cover;
   }
+  .acao-aventura .banner-1 {
+    background: url(../images/acao/171-lg.png) center;
+  }
   .acao-aventura .banner-2 {
-    background: url(../images/rio-artigo.png) center;
-    background-size: cover;
+    background: url(../images/acao/rio-lg.png) center;
+  }
+  .terror .banner-1 {
+    background: url(../images/terror/fobia-lg.png) center;
+  }
+  .terror .banner-2 {
+    background: url(../images/terror/enefn-lg.png) center;
+  }
+  .rpg .banner-1 {
+    background: url(../images/rpg/lenin-lg.png) center;
+  }
+  .rpg .banner-2 {
+    background: url(../images/rpg/ponami-lg.png) center;
+  }
+  .pixel .banner-1 {
+    background: url(../images/pixel/celeste-lg.png) center;
+  }
+  .pixel .banner-2 {
+    background: url(../images/pixel/chroma-squad-lg.png) center;
   }
 }
 .btn-conheca {
   bottom: 50px;
   left: 50%;
   transform: translate(-50%);
+}
+.bg-botoes-navegacao {
+  background: rgba(0, 0, 0, 0.6);
 }

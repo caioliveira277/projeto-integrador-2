@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
                 <div class="card d-flex justify-content-center align-items-center p-1 p-lg-5">
-                    <img src="assets/images/alex_lg.png" class="img-fluid" alt="Foto de Alex Teixeira da Fonseca">
+                    <img src="assets/images/quem-somos/alex-lg.png" class="img-fluid" alt="Foto de Alex Teixeira da Fonseca">
                     <div class="card-body text-center">
                         <h2>Alex Teixeira</h2>
                         <div class="d-flex justify-content-between my-2">
@@ -19,7 +19,7 @@
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
                 <div class="card d-flex justify-content-center align-items-center p-1 p-lg-5">
-                    <img src="assets/images/guilherme_lg.png" class="img-fluid" alt="Foto de Guilherme Moreira dos Santos">
+                    <img src="assets/images/quem-somos/guilherme-lg.png" class="img-fluid" alt="Foto de Guilherme Moreira dos Santos">
                     <div class="card-body text-center">
                         <h2>Guilherme Moreira</h2>
                         <div class="d-flex justify-content-between my-2">
@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
                 <div class="card d-flex justify-content-center align-items-center p-1 p-lg-5">
-                    <img src="assets/images/caio_lg.png" class="img-fluid" alt="Foto de Caio Henrique da Silva Oliveira">
+                    <img src="assets/images/quem-somos/caio-lg.png" class="img-fluid" alt="Foto de Caio Henrique da Silva Oliveira">
                     <div class="card-body text-center">
                         <h2>Caio Oliveira</h2>
                         <div class="d-flex justify-content-between my-2">
@@ -53,7 +53,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
                 <div class="card d-flex justify-content-center align-items-center p-1 p-lg-5">
-                    <img src="assets/images/leonardo_lg.png" class="img-fluid" alt="Foto de Leonardo Bozzi da Silva">
+                    <img src="assets/images/quem-somos/leonardo-lg.png" class="img-fluid" alt="Foto de Leonardo Bozzi da Silva">
                     <div class="card-body text-center">
                         <h2>Leonardo Bozzi</h2>
                         <div class="d-flex justify-content-between my-2">
@@ -68,7 +68,7 @@
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 p-3 d-flex justify-content-center align-items-center">
                 <div class="card d-flex justify-content-center align-items-center p-1 p-lg-5">
-                    <img src="assets/images/juarez_lg.png" class="img-fluid" alt="Foto de Juarez Caetano">
+                    <img src="assets/images/quem-somos/juarez-lg.png" class="img-fluid" alt="Foto de Juarez Caetano">
                     <div class="card-body text-center">
                         <h2>Juarez Caetano</h2>
                         <div class="d-flex justify-content-between">

@@ -2,7 +2,7 @@
     <h1 class="font-weight-bold my-5">Jogos que são lançados aqui no Brasil mas não temos a menor ideia. </h1>
     <section class="row mb-3 align-items-center">
         <figure class="d-flex mb-0 col-12 col-sm-6">
-            <img src="./assets/images/alex_sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
+            <img src="./assets/images/home/alex-sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
             <figcaption class="row align-items-center">
                 <p class="font-weight-light mb-0 col-auto">Alex Teixeira</p>
                 <a href="#" class="btn btn-success bg-transparent text-success ml-3 p-1 col-auto" target="_blank">Seguir</a>
@@ -31,7 +31,7 @@
                 </a>
             </li>
         </ul>
-        <img class="img-fluid mt-3" src="./assets/images/banner_home.jpg" alt="Um homem utilizando seu computador">
+        <img class="img-fluid mt-3" src="./assets/images/home/banner-home.jpg" alt="Um homem utilizando seu computador">
         <div class="col-3 d-flex align-items-center reacoes p-4">
             <img class="m-1" src="./assets/icons/like.svg" alt="Icone de joia representando 'gostei'">
             <span class="m-1">12k</span>
@@ -47,8 +47,8 @@
         </p>
         <p class="paragrafo col-11">Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.</p>
         <figure class="col-12 col-md-4 m-0">
-            <img src="./assets/images/artigo-home.png" class="d-none d-md-block img-fluid" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
-            <img src="./assets/images/artigo-home-md.png" class="d-block d-md-none img-fluid" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
+            <img src="./assets/images/home/artigo-home.png" class="d-none d-md-block img-fluid" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
+            <img src="./assets/images/home/artigo-home-md.png" class="d-block d-md-none img-fluid" alt="Uma mesa de madeira com um teclado preto, um celular, notebook, caixa de som e um monitor">
         </figure>
         <p class="paragrafo col-12 col-md-8">Duis nec sollicitudin nisi. Nunc eget pellentesque purus. Donec sed condimentum ipsum. Phasellus non vulputate magna. Vestibulum nec dignissim tortor. Nulla ultricies, orci et blandit fermentum, metus dolor interdum lacus, eget luctus nisi felis et quam. Fusce egestas euismod erat sit amet eleifend. Donec porta, nulla id ullamcorper maximus, magna arcu tincidunt nisl, ac ultricies mi risus ornare ex. Sed purus ligula, fringilla a diam vitae, aliquam gravida nisi. Vivamus accumsan iaculis turpis, id elementum erat suscipit ac. Nulla non tempor massa.</p>
     </section>
@@ -57,25 +57,25 @@
         <hr class="mb-5">
         <div class="row">
             <div class="col-12 col-md-6 mb-4 position-relative">
-                <img class="img-fluid" src="./assets/images/terror.png" alt="Ilustração de um cartão com desenhos sobre jogos de terror">
+                <img class="img-fluid" src="./assets/images/home/terror.png" alt="Ilustração de um cartão com desenhos sobre jogos de terror">
                 <a href="./index.php?view=terror" class="btn btn-outline-light px-4 position-absolute btn-conheca">
                     Conheça
                 </a>
             </div>
             <div class="col-12 col-md-6 mb-4 position-relative">
-                <img class="img-fluid" src="./assets/images/acao-aventura.png">
+                <img class="img-fluid" src="./assets/images/home/acao-aventura.png">
                 <a href="./index.php?view=acao-aventura" class="btn btn-outline-light px-4 position-absolute btn-conheca">
                     Conheça
                 </a>
             </div>
             <div class="col-12 col-md-6 mt-1 mb-4 position-relative">
-                <img class="img-fluid" src="./assets/images/rpg.png" alt="Ilustração de um cartão com desenhos sobre jogos de RPG">
+                <img class="img-fluid" src="./assets/images/home/rpg.png" alt="Ilustração de um cartão com desenhos sobre jogos de RPG">
                 <a href="./index.php?view=rpg" class="btn btn-outline-light px-4 position-absolute btn-conheca">
                     Conheça
                 </a>
             </div>
             <div class="col-12 col-md-6 mt-1 mb-4 position-relative">
-                <img class="img-fluid" src="./assets/images/pixel.png" alt="Ilustração de um cartão com desenhos sobre jogos feitos em Pixels">
+                <img class="img-fluid" src="./assets/images/home/pixel.png" alt="Ilustração de um cartão com desenhos sobre jogos feitos em Pixels">
                 <a href="./index.php?view=pixel" class="btn btn-outline-light px-4 position-absolute btn-conheca">
                     Conheça
                 </a>
