@@ -16,6 +16,8 @@
 * {
   font-family: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
 }
+
+/* header e footer */
 header, footer {
   background: #2E2E2E;
 }
@@ -41,36 +43,12 @@ header nav li::before {
   background: #ffffff;
   margin: 0 15px;
 }
-.img-perfil {
-  height: 60px;
-  width: 60px;
+.navbar-toggler {
+  border: 1px solid #ffffff;
+  padding: 10px;
 }
 
-.autor-postagem .nome{
-  font-size: 20px;
-}
-.conteudo{
-  font-size: 18px;
-  padding: 0 5rem;
-}
-img.img-fluid {
-  margin: 0 auto;
-  display: block;
-}
-
-/* HOME */
-
-.social-media-home img {
-  width: 20px;
-  height: 20px;
-  margin: 0 5px;
-  cursor: pointer;
-}
-
-.reacoes img{
-  cursor: pointer;
-}
-
+/* tema */
 .button-send-mail:hover{
   border: 1px solid #6699ff;
   filter: brightness(0.645);
@@ -79,40 +57,72 @@ input.form-control, textarea.form-control{
   border-color: #004C92;
   border-width: 2px;
 }
-.pagina-contato .card {
-  max-width: 300px;
-}
-
-.form-email-contact{
-  background: #F2F2F2;
-  margin: 0 auto;
-  border-top: 3px solid #4F4F4F;
-}
-.title-email-home{
-  background: #F2F2F2;
-  border-top: 4px solid #c4c4c4;
-  margin: 0 auto;
-}
-
-.title-home {
-  font-weight: 100;
-}
-
 .paragrafo {
   font-size: 20px;
   line-height: 35px;
 }
-
-.text-comment-name {
-  color: #6699ff;
+a.active {
+  color: #6699FF;
+  text-decoration: underline;
 }
-
+button:focus {
+  outline-color: #6699FF;
+}
 .bg-cinza {
   background: #E4E4E4;
 }
 .bg-preto {
   background: #232323;
 }
+h1.titulo-paginas{
+  border-left: 1px solid #5B5B5B;
+  padding-left: 10px;
+}
+em {
+  font-style: normal;
+}
+.numero-artigo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 55px;
+  z-index: 10;
+  transform: translate(-50%, -50%);
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+}
+.bg-botoes-navegacao {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* home */
+.img-perfil {
+  height: 60px;
+  width: 60px;
+}
+img.img-fluid {
+  margin: 0 auto;
+  display: block;
+}
+.form-email-contact{
+  background: #F2F2F2;
+  margin: 0 auto;
+  border-top: 3px solid #4F4F4F;
+}
+.text-comment-name {
+  color: #6699ff;
+}
+.btn-conheca {
+  bottom: 50px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+/* pagina contato */
+.pagina-contato .card {
+  max-width: 300px;
+}
+
+/* pagina quem-somos */
 .quem-somos .card {
   background: #F2F2F2;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
@@ -130,87 +140,20 @@ input.form-control, textarea.form-control{
   color: #4D4D4D;
   font-size: 20px;
 }
-h1.titulo-paginas{
-  border-left: 1px solid #5B5B5B;
-  padding-left: 10px;
-}
 .pagina-contato img {
   max-width: 150px;
 }
-a.active {
-  color: #6699FF;
-  text-decoration: underline;
-}
-button:focus {
-  outline-color: #6699FF;
-}
 
-.navbar-toggler {
-  border: 1px solid #ffffff;
-  padding: 10px;
-}
-em {
-  font-style: normal;
-}
-.numero-artigo {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  font-size: 55px;
-  z-index: 10;
-  transform: translate(-50%, -50%);
-  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
-}
-@media screen and (min-width: 992px){
-  .fixed-bottom {
-    position: relative;
-  }
-  .links.collapse {
-    display: flex;
-  }
-  nav.collapse {
-    margin-top: -43px;
-    margin-bottom: 30px;
-  }
-  .logos {
-    margin-bottom: -110px;
-  }
-}
-/* mobile */
-@media screen and (max-width: 578px){
-  .numero-artigo {
-    top: 5%;
-  }
-}
-@media screen and (min-width: 578px) and (max-width: 992px){
-  .numero-artigo {
-    left: 24%;
-  }
-}
-@media screen and (max-width: 992px){
-  header nav li::before {
-    content: none;
-  }
-  .fixed-bottom {
-    background: #2e2e2e;
-  }
-  .face {
-    width: 14px !important;
-  }
-}
+/* pagina normas */
 .perguntas {
   width: 49%;
   border-radius: 10px;
 }
-@media screen and (max-width: 576px){
-  .perguntas {
-    width: 100%;
-  }
-}
+
+/* paginas de artigos */
 .w-customizado {
   max-width: 220px;
 }
-
 .banner-postagem {
   background-size: cover;
   height: 600px;
@@ -226,7 +169,6 @@ em {
 article > .bg-opacidade {
   background: rgba(0, 0, 0, 0.8);
 }
-
 /* banners */
 .acao-aventura .banner-postagem {
   background: url(../images/acao/banner-acao.png) center;
@@ -269,11 +211,48 @@ article > .bg-opacidade {
     background: url(../images/pixel/chroma-squad-lg.png) center;
   }
 }
-.btn-conheca {
-  bottom: 50px;
-  left: 50%;
-  transform: translate(-50%);
+/* responsividade numero artigo */
+@media screen and (max-width: 578px){
+  .numero-artigo {
+    top: 5%;
+  }
 }
-.bg-botoes-navegacao {
-  background: rgba(0, 0, 0, 0.6);
+@media screen and (min-width: 578px) and (max-width: 992px){
+  .numero-artigo {
+    left: 24%;
+  }
+}
+
+/* lg */
+@media screen and (min-width: 992px){
+  .links.collapse {
+    display: flex;
+  }
+  nav.collapse {
+    margin-top: -43px;
+    margin-bottom: 30px;
+  }
+  .logos {
+    margin-bottom: -110px;
+  }
+}
+
+/* md */
+@media screen and (max-width: 576px){
+  .perguntas {
+    width: 100%;
+  }
+}
+
+/* sm */
+@media screen and (max-width: 992px){
+  header nav li::before {
+    content: none;
+  }
+  .fixed-bottom {
+    background: #2e2e2e;
+  }
+  .face {
+    width: 14px !important;
+  }
 }

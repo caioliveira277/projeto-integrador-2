@@ -57,13 +57,13 @@
         <hr class="mb-5">
         <div class="row">
             <div class="col-12 col-md-6 mb-4 position-relative">
-                <img class="img-fluid" src="./assets/images/home/terror.png" alt="Ilustração de um cartão com desenhos sobre jogos de terror">
+                <img class="img-fluid" src="./assets/images/home/terror.png" alt="Ilustração de um cartão com desenhos sobre jogos de Terror">
                 <a href="./index.php?view=terror" class="btn btn-outline-light px-4 position-absolute btn-conheca">
                     Conheça
                 </a>
             </div>
             <div class="col-12 col-md-6 mb-4 position-relative">
-                <img class="img-fluid" src="./assets/images/home/acao-aventura.png">
+                <img class="img-fluid" src="./assets/images/home/acao.png" alt="Ilustração de um cartão com desenhos sobre jogos de Ação">
                 <a href="./index.php?view=acao-aventura" class="btn btn-outline-light px-4 position-absolute btn-conheca">
                     Conheça
                 </a>

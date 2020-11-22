@@ -4,7 +4,7 @@ $view = filter_input(INPUT_GET, "view");
   include("./pages/template/header.php");
     switch ($view) {
       case 'acao-aventura':
-        include("./pages/acao-aventura.php");
+        include("./pages/acaophp");
         break;
       case 'rpg':
         include("./pages/rpg.php");
