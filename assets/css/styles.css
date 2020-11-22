@@ -117,6 +117,9 @@ input.form-control, textarea.form-control{
 .bg-cinza {
   background: #E4E4E4;
 }
+.bg-preto {
+  background: #232323;
+}
 .quem-somos .card {
   background: #F2F2F2;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
@@ -160,17 +163,11 @@ em {
   position: absolute;
   left: 50%;
   top: 50%;
-  font-size: 70px;
+  font-size: 55px;
   z-index: 10;
   transform: translate(-50%, -50%);
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
 }
-@media screen and (max-width: 778px) {
-  .numero-artigo {
-    top: 5%;
-  }
-}
-
 @media screen and (min-width: 992px){
   .fixed-bottom {
     position: relative;
@@ -187,6 +184,16 @@ em {
   }
 }
 /* mobile */
+@media screen and (max-width: 578px){
+  .numero-artigo {
+    top: 5%;
+  }
+}
+@media screen and (min-width: 578px) and (max-width: 992px){
+  .numero-artigo {
+    left: 24%;
+  }
+}
 @media screen and (max-width: 992px){
   header nav li::before {
     content: none;
@@ -197,9 +204,6 @@ em {
   .face {
     width: 14px !important;
   }
-  /* article {
-    padding-top: 40%;
-  } */
 }
 .perguntas {
   width: 49%;
@@ -210,26 +214,37 @@ em {
     width: 100%;
   }
 }
-
+.w-customizado {
+  max-width: 220px;
+}
 
 .acao-aventura .banner-postagem {
-  background: url(../images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png) center;
+  background: url(../images/banner-rio.png) center;
   background-size: cover;
-  height: 450px;
+  height: 600px;
   color: #ffffff;
 }
+.titulo-sombreado {
+  text-shadow: 4px 4px 4px #000000;
+}
+.subtitulo-opacidade {
+  color: #ffffffc4;
+  text-shadow: 4px 4px 4px #000000;
+}
 article > .bg-opacidade {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.8);
 }
 
 /* banners */
-.acao-aventura .banner-1 {
-  background: url(../images/171-artigo.png) center;
-  background-size: cover;
-}
-.acao-aventura .banner-2 {
-  background: url(../images/rio-artigo.png) center;
-  background-size: cover;
+@media screen and (min-width: 578px) {
+  .acao-aventura .banner-1 {
+    background: url(../images/171-artigo.png) center;
+    background-size: cover;
+  }
+  .acao-aventura .banner-2 {
+    background: url(../images/rio-artigo.png) center;
+    background-size: cover;
+  }
 }
 .btn-conheca {
   bottom: 50px;
