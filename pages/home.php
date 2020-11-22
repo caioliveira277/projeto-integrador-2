@@ -5,7 +5,7 @@
             <img src="./assets/images/home/alex-sm.png" class="rounded-circle img-perfil mr-3" alt="Imagem de perfil do autor da postagem">
             <figcaption class="row align-items-center">
                 <p class="font-weight-light mb-0 col-auto">Alex Teixeira</p>
-                <a href="#" class="btn btn-success bg-transparent text-success ml-3 p-1 col-auto" target="_blank">Seguir</a>
+                <a href="#" class="btn btn-success bg-transparent text-success ml-3 p-1 col-auto">Seguir</a>
                 <p class="font-weight-light mb-0 mt-2 col-12">22 de setembro de 2020</p>
             </figcaption>
         </figure>
