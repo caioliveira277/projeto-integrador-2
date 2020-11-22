@@ -1,4 +1,4 @@
-    <footer class="p-4 mt-5">
+    <footer class="p-4">
       <div class="container">
         <ul class="list-inline d-flex mb-4 justify-content-center">
           <li class="mr-3">

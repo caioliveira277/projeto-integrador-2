@@ -1,4 +1,4 @@
-<main class="pagina-home container-md">
+<main class="pagina-home container-md mb-5">
     <h1 class="font-weight-bold my-5">Jogos que são lançados aqui no Brasil mas não temos a menor ideia. </h1>
     <section class="row mb-3 align-items-center">
         <figure class="d-flex mb-0 col-6">

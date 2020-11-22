@@ -111,7 +111,13 @@ img.img-fluid {
   color: #6699ff;
 }
 
-
+.pagina-normas {
+  background: #E4E4E4;
+}
+.pagina-normas h1{
+  border-left: 1px solid #5B5B5B;
+  padding-left: 10px;
+}
 .pagina-contato img {
   max-width: 150px;
 }
@@ -173,10 +179,20 @@ em {
   .face {
     width: 14px !important;
   }
-  article {
+  /* article {
     padding-top: 40%;
+  } */
+}
+.perguntas {
+  width: 49%;
+  border-radius: 10px;
+}
+@media screen and (max-width: 576px){
+  .perguntas {
+    width: 100%;
   }
 }
+
 
 .acao-aventura .banner-postagem {
   background: url(../images/rio-raised-in-oblivion-tiro-brasileiro-apocalipse.png) center;
