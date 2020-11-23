@@ -35,7 +35,7 @@
             <div class="col-12 col-sm-5 mb-5">
                 <h2> Gostou do nosso conteúdo ?</h2>
                 <small class="font-weight-light mb-3 d-block">Não deixe de entrar em contato dando a sua opnião, ficaremos felizes em analisa-lá.</small>
-                <form class="mt-6" action="form.php" method="get">
+                <form class="mt-6">
                     <div class="form-group">
                         <label for="nome">Nome</label>
                         <input type="text" placeholder="Digite seu nome" class="form-control" id="nome">

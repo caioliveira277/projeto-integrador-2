@@ -184,7 +184,7 @@ article > .bg-opacidade {
 }
 @media screen and (min-width: 578px) {
   .banner-1, .banner-2 {
-    background-size: cover;
+    background-size: cover !important;
   }
   .acao-aventura .banner-1 {
     background: url(../images/acao/171-lg.png) center;
@@ -214,12 +214,12 @@ article > .bg-opacidade {
 /* responsividade numero artigo */
 @media screen and (max-width: 578px){
   .numero-artigo {
-    top: 5%;
+    top: -1%;
   }
 }
 @media screen and (min-width: 578px) and (max-width: 992px){
   .numero-artigo {
-    left: 24%;
+    left: 41%;
   }
 }
 

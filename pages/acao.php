@@ -13,7 +13,7 @@
         </div>
         <article class="position-relative banner-1 mt-5">
             <span class="numero-artigo text-warning">01</span>
-            <div class="ml-sm-auto col-12 col-sm-9 col-lg-6 bg-opacidade px-0 p-lg-4">
+            <div class="ml-sm-auto col-12 col-sm-7 col-lg-6 bg-opacidade px-0 p-lg-4">
                 <img src="./assets/images/acao/171-sm.png" class="d-block img-fluid d-sm-none" alt="Cena do jogo 171, um personagem atirando contra um carro em meio a rua">
                 <h2 class="text-warning text-left text-right ml-1 mr-3 mr-sm-5 pt-3">171</h2>
                 <p class="text-white bg-opacidade px-3 pl-sm-5 pt-4 pb-5 paragrafo">
@@ -23,7 +23,7 @@
         </article>
         <article class="position-relative banner-2 mt-5 mb-4">
             <span class="numero-artigo text-warning">02</span>
-            <div class="ml-sm-auto col-12 col-sm-9 col-lg-6 bg-opacidade px-0 p-lg-4">
+            <div class="ml-sm-auto col-12 col-sm-7 col-lg-6 bg-opacidade px-0 p-lg-4">
                 <img src="./assets/images/acao/rio-sm.png" class="d-block img-fluid d-sm-none" alt="Cena do jogo Rio, um personagem em frente a uma pedra com uma frase escrita">
                 <h2 class="text-warning text-left text-right ml-1 mr-3 mr-sm-5 pt-3">RIO</h2>
                 <p class="text-white bg-opacidade px-3 pl-sm-5 pt-4 pb-5 paragrafo">
