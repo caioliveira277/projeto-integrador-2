@@ -13,7 +13,7 @@
                         </div>
                         <h4 class="mb-4">Biografia</h4>
                         <p>Página feita: Contato e Normas</p>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pretium massa. Praesent varius mauris in nibh posuere, eu luctus velit elei </p>
+                        <p class="card-text">Estudante de Sistemas para Internet na FATEC São Roque, estou na área de programação desde 2016 quando participei da equipe de robótica do SESI.</p>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
                         </div>
                         <h4 class="mb-4">Biografia</h4>
                         <p>Página feita: Terror e Ação/Aventura</p>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pretium massa. Praesent varius mauris in nibh posuere, eu luctus velit elei </p>
+                        <p class="card-text">Estudante do 2º Semestre de Sistemas para internet na Fatec São Roque, no momento  focado  no desenvolvimento Front-end.</p>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                         </div>
                         <h4 class="mb-4">Biografia</h4>
                         <p>Pagina feita: Estrutura</p>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pretium massa. Praesent varius mauris in nibh posuere, eu luctus velit elei </p>
+                        <p class="card-text">Estudande de Sistemas para internet na FATEC São Roque e entusiasta na área de tecnologia. Atualmente atuando como desenvolvedor na região  de Sorocaba.</p>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                         </div>
                         <h4 class="mb-4">Biografia</h4>
                         <p>Página feita: Home e Quem Somos</p>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pretium massa. Praesent varius mauris in nibh posuere, eu luctus velit elei </p>
+                        <p class="card-text">Estudante na área de tecnologia desde 2020,  entusiasta por infosec desde criança, hoje foco em JS e desenvolvimento web.</p>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                         </div>
                         <h4 class="mb-4">Biografia</h4>
                         <p>Página feita: RPG e Pixel</p>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pretium massa. Praesent varius mauris in nibh posuere, eu luctus velit elei </p>
+                        <p class="card-text">Estudante da área de TI com foco maior na programação Back End, atualmente trabalha como técnico em informática e possue alguns projetos na area web com PHP e MySQL.</p>
                     </div>
                 </div>
             </div>
