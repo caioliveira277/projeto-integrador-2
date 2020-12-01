@@ -13,7 +13,7 @@
                         </div>
                         <h4 class="mb-4">Biografia</h4>
                         <p>Página feita: Contato e Normas</p>
-                        <p class="card-text">Estudante de Sistemas para Internet na FATEC São Roque, estou na área de programação desde 2016 quando participei da equipe de robótica do SESI.</p>
+                        <p class="card-text">Estudante de Sistemas para Internet na FATEC São Roque, estou na área de programação desde 2018 quando participei da equipe de robótica do SESI.</p>
                     </div>
                 </div>
             </div>
