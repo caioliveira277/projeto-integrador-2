@@ -12,7 +12,11 @@
                             <p>R.A: 2650832013009</p>
                         </div>
                         <h4 class="mb-4">Biografia</h4>
-                        <p>Página feita: Contato e Normas</p>
+                        <p>Página feita: 
+                            <a href="./index.php?view=contato" target="_blank">Contato</a>
+                            e 
+                            <a href="./index.php?view=normas-utilizacao" target="_blank">Normas</a>
+                        </p>
                         <p class="card-text">Estudante de Sistemas para Internet na FATEC São Roque, estou na área de programação desde 2018 quando participei da equipe de robótica do SESI.</p>
                     </div>
                 </div>
@@ -27,7 +31,12 @@
                             <p>R.A: 2650832013001</p>
                         </div>
                         <h4 class="mb-4">Biografia</h4>
-                        <p>Página feita: Terror e Ação/Aventura</p>
+                        <p>
+                            Página feita: 
+                            <a href="./index.php?view=terror" target="_blank">Terror</a>
+                            e 
+                            <a href="./index.php?view=acao-aventura" target="_blank">Ação/Aventura</a>
+                        </p>
                         <p class="card-text">Estudante do 2º Semestre de Sistemas para internet na Fatec São Roque, no momento  focado  no desenvolvimento Front-end.</p>
                     </div>
                 </div>
@@ -44,7 +53,7 @@
                             <p>R.A: 2650832013013</p>
                         </div>
                         <h4 class="mb-4">Biografia</h4>
-                        <p>Pagina feita: Estrutura</p>
+                        <p>Contribuição: Estrutura Geral</p>
                         <p class="card-text">Estudande de Sistemas para internet na FATEC São Roque e entusiasta na área de tecnologia. Atualmente atuando como desenvolvedor na região  de Sorocaba.</p>
                     </div>
                 </div>
@@ -61,7 +70,12 @@
                             <p>R.A: 2650832013008</p>
                         </div>
                         <h4 class="mb-4">Biografia</h4>
-                        <p>Página feita: Home e Quem Somos</p>
+                        <p>
+                            Página feita: 
+                            <a href="./index.php" target="_blank">Home</a> 
+                            e 
+                            <a href="./index.php?view=quem-somos" target="_blank">Quem Somos</a> 
+                        </p>
                         <p class="card-text">Estudante na área de tecnologia desde 2020,  entusiasta por infosec desde criança, hoje foco em JS e desenvolvimento web.</p>
                     </div>
                 </div>
@@ -76,7 +90,12 @@
                             <p>R.A: 2650832013004</p>
                         </div>
                         <h4 class="mb-4">Biografia</h4>
-                        <p>Página feita: RPG e Pixel</p>
+                        <p>
+                            Página feita: 
+                            <a href="./index.php?view=rpg" target="_blank">RPG</a>
+                            e 
+                            <a href="./index.php?view=pixel" target="_blank">Pixel</a>
+                        </p>
                         <p class="card-text">Estudante da área de TI com foco maior na programação Back End, atualmente trabalha como técnico em informática e possue alguns projetos na area web com PHP e MySQL.</p>
                     </div>
                 </div>
